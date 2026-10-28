@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your projects and academic achievements with a professional portfolio website designed for fresh graduates in computing, enhancing job prospects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
